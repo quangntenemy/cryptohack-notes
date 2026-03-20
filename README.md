@@ -10,3 +10,10 @@ No walkthroughs.
 No answers.
 
 Only notes on how systems present themselves — and where that presentation can be misleading.
+
+---
+## Themes
+
+- [Trust boundaries](lenses/trusting_external_parameters.md)
+- [Structure leakage](lenses/structure_leakage.md)
+- [Determinism](lenses/illusion_of_randomness.md)
