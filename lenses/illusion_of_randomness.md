@@ -1,7 +1,9 @@
 ## Illusion of Randomness
 
-Systems often rely on outputs that *look* unpredictable.
+Outputs that appear random are often trusted without question.
 
-The mistake is assuming appearance equals entropy.
+But randomness is not a visual property.
+It is a property of process.
 
-In practice, anything deterministic leaves a trail.
+If the process is deterministic, then the output carries structure —
+even if that structure is not immediately visible.
